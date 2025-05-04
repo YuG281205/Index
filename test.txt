@@ -1,0 +1,8 @@
+Q: What is JavaScript?
+JavaScript is a programming language used for web development.
+
+Q: What is HTML?
+HTML stands for HyperText Markup Language and is used to structure web pages.
+
+Q: What is CSS?
+CSS stands for Cascading Style Sheets and is used for styling web pages.
